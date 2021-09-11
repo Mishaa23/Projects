@@ -2,6 +2,8 @@
 #nodes respectively. The aim is to given a set of red and  blue
 #points, determine whether a new point is red or blue, based
 #on its coordinates.
+#The Theory & algorithm implemented here was taken from
+# Deep Learning: An Introduction for Applied Mathematicians Catherine by F. Higham & Desmond J. Higham
 
 import numpy as np
 import matplotlib.pyplot as plt
